@@ -1,0 +1,13 @@
+{
+    "environments": {
+        "dev": [
+            { "PGUSER": "POSTGRES" }
+        ],
+        "stage": [
+            { "PGUSER": "POSTGRES" }
+        ],
+        "prod": [
+            { "PGUSER": "POSTGRES" }
+        ]
+    }
+}

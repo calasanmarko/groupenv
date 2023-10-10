@@ -1,0 +1,24 @@
+{
+  "name": "groupenv",
+  "version": "1.0.0",
+  "description": "Sets groups of environment variables according to a config file ",
+  "bin": {
+    "groupenv": "./groupenv.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calasanmarko/groupenv.git"
+  },
+  "keywords": [
+    "environment",
+    "variable",
+    "shell",
+    "utility"
+  ],
+  "author": "Marko Calasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calasanmarko/groupenv/issues"
+  },
+  "homepage": "https://github.com/calasanmarko/groupenv#readme"
+}
