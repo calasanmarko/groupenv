@@ -1,6 +1,8 @@
 #!/bin/bash
 
 usage() {
+    echo "Sets groups of environment variables according to a config file."
+    echo ""
     echo "Usage:"
     echo "  groupenv <group-name> [-q]"
     echo "  groupenv <group-name> <config-file> [-q]"
@@ -8,6 +10,7 @@ usage() {
     echo "Options:"
     echo "  -q: Quiet mode (suppress output except for errors)"
     echo ""
+    echo "Applies all environment variables under the given group."
     echo "By default, the script looks for 'groupenv.json' in the current directory."
 }
 
