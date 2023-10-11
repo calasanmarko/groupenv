@@ -43,6 +43,6 @@ By default, the script looks for 'groupenv.json' in the current directory.
 
 
 # License
-Made by Marko Calasan, 2022.
+Made by Marko Calasan, 2023.
 
 This product is licensed under the **MIT License**.
